@@ -15,3 +15,16 @@ Notes:
 - Detection heads and losses are simplified placeholders to create a runnable prototype.
 - Replace dataset stub with your own data loader and annotation parser.
 - For production use, integrate a proper detector head (YOLO/FCOS) and accurate detection/loss computation.
+
+
+Datasets:
+This project uses publicly available crowd counting datasets.
+Due to copyright restrictions, datasets are NOT uploaded in this repository.
+Please download them from the official or Kaggle sources below.
+
+1. ShanghaiTech Part A & B
+   https://www.kaggle.com/datasets/tthien/shanghaitech
+2. JHU-CROWD++
+   https://www.kaggle.com/datasets/hoangxuanviet/jhu-crowd
+3. UCF-QNRF
+   https://www.kaggle.com/datasets/kokunsyu/ucf-qnrf-eccv18
