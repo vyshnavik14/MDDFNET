@@ -28,3 +28,7 @@ Please download them from the official or Kaggle sources below.
    https://www.kaggle.com/datasets/hoangxuanviet/jhu-crowd
 3. UCF-QNRF
    https://www.kaggle.com/datasets/kokunsyu/ucf-qnrf-eccv18
+
+Citation:
+If you use this repository, please cite our paper:
+"Multi-Scale Crowd Detection and Density Estimation Using Graph Neural Networks" (submitted to The Visual Computer, 2025).
